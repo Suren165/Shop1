@@ -1,1 +1,2 @@
-Butik.Butik();
+Main main = new();
+main.RunGame();

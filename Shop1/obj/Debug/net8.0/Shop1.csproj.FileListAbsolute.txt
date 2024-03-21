@@ -3,3 +3,13 @@ c:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\obj\Debug\net8.0\Sho
 c:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\obj\Debug\net8.0\Shop1.AssemblyInfo.cs
 c:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\obj\Debug\net8.0\Shop1.csproj.CoreCompileInputs.cache
 c:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\obj\Debug\net8.0\Shop1.sourcelink.json
+C:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\bin\Debug\net8.0\Shop1.exe
+C:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\bin\Debug\net8.0\Shop1.deps.json
+C:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\bin\Debug\net8.0\Shop1.runtimeconfig.json
+C:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\bin\Debug\net8.0\Shop1.dll
+C:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\bin\Debug\net8.0\Shop1.pdb
+C:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\obj\Debug\net8.0\Shop1.dll
+C:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\obj\Debug\net8.0\refint\Shop1.dll
+C:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\obj\Debug\net8.0\Shop1.pdb
+C:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\obj\Debug\net8.0\Shop1.genruntimeconfig.cache
+C:\Users\suren.arakelyan\Documents\Programering\Shop1\Shop1\obj\Debug\net8.0\ref\Shop1.dll

@@ -4,9 +4,11 @@ class Store
 {
     public static void BuyItem(Player player, Item item)
     {
-        if (player.Money >= item.price)
+        if (player.money >= item.price)
         {
-            Console.WriteLine($"Du har köpt {item.Name} för {item.price} kronor.");
+            Console.WriteLine($"Du har köpt {item.name} för {item.price} kronor.");
+            player.inventory.AddToInventory(item);
+            player.money -= item.price;
         }
         else
         {
