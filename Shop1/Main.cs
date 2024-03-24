@@ -27,28 +27,24 @@ class Main
         if (val == "1")
         {
             Store.BuyItem(player, mossa);
+               Console.WriteLine($"Nu har du {player.money} kronor kvar. Tack för ditt köp!");
         }
         else if (val == "2")
         {
             Store.BuyItem(player, gurka);
+               Console.WriteLine($"Nu har du {player.money} kronor kvar. Tack för ditt köp!");
         }
         else if (val == "3")
         {
             Store.BuyItem(player, bulle);
+               Console.WriteLine($"Nu har du {player.money} kronor kvar. Tack för ditt köp!");
         }
-        
-        
+        else
+        {
+            Console.WriteLine("Oj då, försök att skriva ett nummer");
+        }
 
 
-
-
-
-
-        // Console.WriteLine($"Nu har du {player.money} kronor kvar. Tack för ditt köp!");
-
-
-
-
-                Console.ReadLine();
+        Console.ReadLine();
     }
 }
