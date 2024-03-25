@@ -13,7 +13,6 @@ class Store
         else
         {
             Console.WriteLine("Oj du har inte råd ");
-
         }
     }
 }
