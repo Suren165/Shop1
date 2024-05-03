@@ -2,6 +2,7 @@ using System;
 
 class Store
 {
+
     public static void BuyItem(Player player, Item item)
     {
         if (player.money >= item.price)
